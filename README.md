@@ -27,4 +27,5 @@ pip3 install csv
 
 https://stackoverflow.com/questions/31248804/is-it-possible-to-locate-element-by-partial-id-match-in-selenium
 
+https://selenium-python.readthedocs.io/navigating.html
 
