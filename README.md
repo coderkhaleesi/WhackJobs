@@ -11,3 +11,8 @@ The main focus of this app is to find jobs that are related to ML, Python, DL, D
 The fields that will be displayed are - Job Title, Salary (if available), Job Description, Location, Visa Sponsorship, Link to Apply, Additional insights if available.
 
 Another page -> Job Insights (How many total jobs with a particular title? Where are the most jobs?)
+
+
+##Step 1 - Let's start by determining the stack. I am using Python Flask for backend development.
+
+First, I want to GET all jobs from different platforms and save them in a database. Also, schedule this job for every week preferably using Jenkins.
