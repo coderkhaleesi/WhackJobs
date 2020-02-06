@@ -16,3 +16,15 @@ Another page -> Job Insights (How many total jobs with a particular title? Where
 ##Step 1 - Let's start by determining the stack. I am using Python Flask for backend development.
 
 First, I want to GET all jobs from different platforms and save them in a database. Also, schedule this job for every week preferably using Jenkins.
+
+Since to access LinkedIn data using an API, I need to join their developer partner program, I decide to scrape the data.
+
+pip3 install ipython 
+pip3 install selenium  
+pip3 install time 
+pip3 install parsel
+pip3 install csv
+
+https://stackoverflow.com/questions/31248804/is-it-possible-to-locate-element-by-partial-id-match-in-selenium
+
+
